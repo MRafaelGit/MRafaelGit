@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/orandm/orandm/main/assets/cyberpunk-banner.gif" alt="Synthwave Horizon" width="100%" />
+  <!-- Gráfico de Linhas Neon Azul com Picos e Vales Pontudos (Efeito Ondas de Som) -->
+  <img src="https://github-readme-activity-graph.vercel.add/graph?username=rafael&theme=react-dark&area=false&point=false&hide_border=true&custom_title=false&height=160" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
+    <!-- Texto de digitação limpo em azul ciano -->
     <img src="https://readme-typing-svg.herokuapp.com/?color=00f0ff&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciência+de+Dados;Analista+de+QA+e+Automação+de+Testes" />
   </a>
 </p>
