@@ -1,13 +1,6 @@
 <p align="center">
-  <!-- Gráfico de Linhas Neon Azul com Picos e Vales Pontudos (Efeito Ondas de Som) -->
-  <img src="https://github-readme-activity-graph.vercel.add/graph?username=rafael&theme=react-dark&area=false&point=false&hide_border=true&custom_title=false&height=160" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <!-- Texto de digitação limpo em azul ciano -->
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00f0ff&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciência+de+Dados;Analista+de+QA+e+Automação+de+Testes" />
-  </a>
+  <!-- Banner com Grade Quadriculada Verde Neon e seus textos centralizados -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Rafael&fontSize=50&fontColor=00FF00&animation=fadeIn&desc=Estudante%20de%20Ciência%20de%20Dados&descSize=20&descAlignY=65&stroke=00FF00&strokeWidth=1&theme=githubDark" width="100%" />
 </p>
 
 ## 💫 Sobre
