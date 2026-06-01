@@ -1,9 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Rafael! 👋
 
-<!--
-**MRafaelGit/MRafaelGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 Sobre
+Sou estudante de Ciência de Dados. Atualmente, estou desenvolvendo projetos práticos de análise de dados com foco em inteligência de mercado e automação de processos, futuramente busco integrar minha area de formação como químico com ciência de dados, seja com softwares de rotina, tratamento de dados, calibração de analises e curvas, e outros desafios que posso acabar encontrando.
 
-Here are some ideas to get you started:
+- 📚 Estudando: Ciência de Dados, Modelos de Machine Learning e Bancos de Dados e sou formado em Química pela UNESP.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 📊 Ciência e Analise de Dados 
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB/AWS](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-LINK-DO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@provedor.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+FUTURAMENTE-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
