@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=Ｒａｆａｅｌ&fontSize=50&fontColor=ffffff&theme=softGradient" />
+  <img src="https://raw.githubusercontent.com/orandm/orandm/main/assets/cyberpunk-banner.gif" alt="Synthwave Horizon" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00f0ff&size=24&center=true&vCenter=true&width=1000&lines=【﻿Ｅｓｔｕｄａｎｔｅ　ｄｅ　Ｃｉêｎｃｉａ　ｄｅ　Ｄａｄｏｓ】;▲　Ａｎａｌｉｓｔａ　ｄｅ　ＱＡ　▲" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00f0ff&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciência+de+Dados;Analista+de+QA+e+Automação+de+Testes" />
   </a>
 </p>
 
