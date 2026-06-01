@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Rafael&fontSize=40&fontColor=ffffff&theme=dracula" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=Ｒａｆａｅｌ&fontSize=50&fontColor=ffffff&theme=softGradient" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=25&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciência+de+Dados" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00f0ff&size=24&center=true&vCenter=true&width=1000&lines=【﻿Ｅｓｔｕｄａｎｔｅ　ｄｅ　Ｃｉêｎｃｉａ　ｄｅ　Ｄａｄｏｓ】;▲　Ａｎａｌｉｓｔａ　ｄｅ　ＱＡ　▲" />
   </a>
 </p>
 
