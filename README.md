@@ -1,6 +1,11 @@
 <p align="center">
-  <!-- Banner com Grade Quadriculada Verde Neon e seus textos centralizados -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Rafael&fontSize=50&fontColor=00FF00&animation=fadeIn&desc=Estudante%20de%20Ciência%20de%20Dados&descSize=20&descAlignY=65&stroke=00FF00&strokeWidth=1&theme=githubDark" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF00&headers=true&section=header&height=120&stroke=00FF00&strokeWidth=2&text=+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+&fontSize=14&fontAlignY=50" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Rafael;Estudante+de+Ciência+de+Dados" />
+  </a>
 </p>
 
 ## 💫 Sobre
