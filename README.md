@@ -1,4 +1,6 @@
-# Olá, eu sou o Rafael! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8a2be2&height=140&section=header&text=Rafael%20|%20Data%20&%20QA&fontSize=50&fontAlignY=45" />
+</p>
 
 ## 💫 Sobre
 Sou estudante de Ciência de Dados. Atualmente, estou desenvolvendo projetos práticos de análise de dados com foco em inteligência de mercado e automação de processos, futuramente busco integrar minha area de formação como químico com ciência de dados, seja com softwares de rotina, tratamento de dados, calibração de analises e curvas, e outros desafios que posso acabar encontrando.
@@ -13,6 +15,10 @@ Sou estudante de Ciência de Dados. Atualmente, estou desenvolvendo projetos pr�
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB/AWS](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧪 Algumas outras ferramentas que uso
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
